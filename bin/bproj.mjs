@@ -24,7 +24,7 @@ program
         ${chalk.bgBlue.bold('React')}, 
         ${chalk.bgGreen.bold('Express')}`)
     )
-    .version("1.0.0");
+    .version("1.0.1");
 
 program.command('new').description('Create a new project').action(async () => {
     const answers = await inquirer.prompt([
