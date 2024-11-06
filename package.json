@@ -1,6 +1,6 @@
 {
     "name": "bproj",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "description": "Cli for init project",
     "main": "bin/bproj.mjs",
     "type": "module",
